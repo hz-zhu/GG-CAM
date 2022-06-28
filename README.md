@@ -1,4 +1,4 @@
-This is the source code used in publication:\
+This is the source code used in publication:
 
 Zhu, Hongzhi, Septimiu Salcudean, and Robert Rohling. "Gaze-Guided Class Activation Mapping: Leveraging Human Attention for Network Attention in Chest X-rays Classification." The 15th International Symposium on Visual Information Communication and Interaction (VINCI 2022).
 
