@@ -1,3 +1,9 @@
+This is the source code used in publication:\
+
+Zhu, Hongzhi, Septimiu Salcudean, and Robert Rohling. "Gaze-Guided Class Activation Mapping: Leveraging Human Attention for Network Attention in Chest X-rays Classification." The 15th International Symposium on Visual Information Communication and Interaction (VINCI 2022).
+
+Zhu, Hongzhi, Septimiu Salcudean, and Robert Rohling. "Gaze-Guided Class Activation Mapping: Leveraging Human Attention for Network Attention in Chest X-rays Classification." arXiv preprint arXiv:2202.07107 (2022).
+
 # GG-CAM
 
 This repo contains python codes used for **"Gaze-Guided Class Activation Mapping: Leveraging Human Attention for Network Attention in Chest X-rays Classification"**, Hongzhi Zhu et al., submitted to International Conference on Medical Image Computing and Computer Assisted Intervention (MICCAI) 2022.
